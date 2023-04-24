@@ -1,0 +1,194 @@
+
+.gioithieu{
+    
+}
+
+.heading{
+    text-align: center;
+    margin-top: 60px;
+    font-weight: 500;
+    font-size: 40px;
+
+}
+
+.title1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 28px;
+    font-weight: 500;
+
+}
+
+.title2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 22px;
+    font-weight: 500;
+
+}
+.gt-long{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 800;
+    margin-bottom: 80px;
+
+}
+
+.gt-chung{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: -40px;
+}
+
+.gt-anh{
+    height: 150px;
+    /* width: 150px; */
+    border-radius: 50%;
+    margin-right: 60px;
+}
+
+.gt-bodytext{
+    margin-top:35PX ;
+
+}
+
+
+/* sanpham */
+.sanpham{
+    
+
+
+}
+.sanpham-chitiet{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.sanpham-khung{
+    width: 380px;
+    height: 310px;
+    border: 1px solid;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+}
+.sanpham-khungtren{
+    width: 380px;
+    height: 151px;
+    border: 1px solid;
+    /* background-image: url(https://i.pinimg.com/originals/5d/df/76/5ddf7672b7b441e72b33fd127426e27d.jpg); */
+
+}
+
+.anh-khungtren{
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    object-fit: cover;
+}
+
+.sanpham-khungduoi{
+    margin-left: 100px;
+}
+
+.sanpham-ten{
+    font-weight: 800;
+    padding-top: 20px;
+}
+
+.sanpham-con{
+display: flex;
+margin-top: 65px;
+    margin-left: -30px;
+
+}
+
+.anh-cr7{
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+}
+
+.sanpham-con-cr7{
+    margin-right: 50px;
+    
+    
+}
+
+
+.sanpham-con-thoigian{
+
+
+
+}
+
+.fa{
+    font-size: xx-small;
+}
+.tinbai-khung{
+    width: 780px;
+    height: 305px;
+    border: 1px solid;
+    margin-top: 60px;
+    margin-left: 200px;
+    margin-bottom: 60px;
+    display: flex;
+    
+}
+.tinbai-khungtrai{
+    width: 380px;
+    height: 305px;
+    border: 1px solid;
+    
+}
+
+.anh-tinbai{
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    object-fit: cover;
+}
+.tinbai-khungphai{
+   max-width: 400px;
+   margin-right: 20px;
+   margin-left: 20px;
+
+}
+.tinbai-ten{
+    margin-top:40px ;
+    font-weight: 700;
+    font-size: 20px;
+    
+
+
+}
+.tinbai-bodytext{
+    margin-top: 70px;
+}
+.ketbai{
+    width: 100%;
+    height: 130px;
+    border: 1px solid;
+    background-color: black;
+}
+.ten-ketbai{
+    color: white;
+    text-align: center;
+    /* margin-top: 20px; */
+}
+.dongke{
+    width: 900px;
+    /* height: 13px; */
+    border: 1px solid white;
+    margin-top: 50px;;
+   margin:  50px auto 20px;
+
+}
+
+
+
+
+
+
